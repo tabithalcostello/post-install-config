@@ -134,6 +134,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/ubUCd3K.png" height="50%" width="50%" alt="Conclude"/>
 </p>
-<p> This concludes this tutorial. The next one will be on this with the ticket lifecycle. 
+<p> This concludes the tutorial. The next one will build onto this one with the ticket lifecycle. 
 </p>
 <br />
