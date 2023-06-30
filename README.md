@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/xlq2lO0.png" height="50%" width="50%" alt="Roles"/>
 </p>
-<p> In the Agent Panel, select Roles. Click Add New Role. In the Definition section, type "Supreme Admin". In the Permissions, select all options, then click Add Role. 
+<p> In the Agent Panel, select Roles. Click Add New Role. In the Definition section, type "Supreme Admin". In the Permissions, select all options, then click Add Role. (Pay attention to clicking on "Agent Panel." It changes to "Admin Panel.")
 </p>
 <br />
 
