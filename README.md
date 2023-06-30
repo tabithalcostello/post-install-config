@@ -14,16 +14,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Configure the Following:</h2>
 
-- Configure Roles
-- Confiure Departments
-- Configure Users
-- Configure SLA
+- Roles
+- Departments
+- Users
+- SLA
+- Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Guideline</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/OVVVtdx.png" height="50%" width="50%" alt="LogIn"/>
@@ -84,7 +85,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/AWyWwMi.png" height="50%" width="50%" alt="Teams Tab"/>
 </p>
-<p> In the Teams Tab, select a team such as Level I or add teams. Add Level II Support. Click create. 
+<p align="center"> In the Teams Tab, select a team such as Level I or add teams. Add Level II Support. Click create. 
 </p>
 <br />
 
@@ -98,45 +99,41 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/b3CmDL6.png" height="50%" width="50%" alt="User Karen"/>
 </p>
-<p align="center"> Log into the osTicket as jane_admin. In the Admin Panel, select Users and Add New User (Karen Hart; karen@clueless.com) 
+<p align="center"> Log into the osTicket as jane_admin. In the Admin Panel, select Users and Add New User (Karen Hart; karen@clueless.com). Click Add.  
 </p>
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/lujmJO3.png" height="50%" width="50%" alt="Register"/>
 </p>
-<p> While in the newly created user for Karen Hart, select Register. Select the option to add a password. 
+<p align="center"> While in the newly created user for Karen Hart, select Register. Select the option to add a password. 
 </p>
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/MpEhmiQ.png" height="50%" width="50%" alt="Ken Jeong"/>
 </p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
+<p align="center"> Repeating the previous steps, create a new user. (Ken Jeong; kenjeong@lovemyself.com)
 </p>
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/gxyucy9.png" height="50%" width="50%" alt="SLA"/>
 </p>
-<p>
-Description
+<p> In the Agent Panel, select Manage, then Service Level Agreements (SLA). Click Add New SLA Plan. Add the following SLA Plans: SEV-A with a 1 hour grace period with a 24/7 schedule. SEV-B with a 4 hour grace period with a 24/7 schedule. SEV-C with a 8 hour grace period with a Monday-Friday 8 am - 5 pm with US Holidays. 
 </p>
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/4mZxej0.png" height="50%" width="50%" alt="Help Topics"/>
 </p>
-<p>
-Description
+<p> In the Agent Panel, go to Manage, then to Help Topics. Add the following Help Topics: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. It is optional to set the Department, SLA, and Priority. These options will be left in the default for this tutorial.  
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/ubUCd3K.png" height="50%" width="50%" alt="Conclude"/>
+</p>
+<p> This concludes this tutorial. The next one will be on this with the ticket lifecycle. 
 </p>
 <br />
