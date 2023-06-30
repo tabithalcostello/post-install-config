@@ -42,29 +42,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/OFIRJ57.png" height="50%" width="50%" alt="Departments"/>
 </p>
-<p> In the Agent Panel, select Departments. Click Add New Department. Name it "System Administrators" and click create. 
+<p align="center"> In the Agent Panel, select Departments. Click Add New Department. Name it "System Administrators" and click Create. 
 </p>
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/VlCGbFA.png" height="50%" width="50%" alt="Teams"/>
 </p>
-<p>
-Description
+<p align="center"> In the Agent Panel, select Teams. Click Add Team. Add "Level II Support." Click Create. 
 </p>
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/XklQWRU.png" height="50%" width="50%" alt="User Access"/>
 </p>
-<p>
-Description
+<p align="center"> In the Agent Panel, select Settings, then Users. Check the box for Require registration and login to create tickets. Save.
 </p>
 <br />
-
-
-
-
 
 <p align="center">
 <img src="https://i.imgur.com/SZoYNFe.png" height="50%" width="50%" alt=""/>
@@ -76,7 +70,7 @@ Description
 <p align="center">
 <img src="https://i.imgur.com/FyuVTK9.png" height="50%" width="50%" alt="Access Tab"/>
 </p>
-<p> In the Access tab, select Primary Department and type of Access the agent is permitted. 
+<p align="center"> In the Access tab, select Primary Department as System Administrators. Select role as Supreme Admin. 
 </p>
 <br />
 
@@ -95,26 +89,23 @@ Description
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/Dk9c1Zt.png" height="50%" width="50%" alt="John Doe"/>
 </p>
-<p>
-Description
-</p>
-<br />
-
-<p align="center">
-<img src="" height="50%" width="50%" alt=""/>
-</p>
-<p>
-Description
+<p align="center"> Following the previous methods, create an administrator named John Doe. 
 </p>
 <br />
 
 <p align="center">
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/b3CmDL6.png" height="50%" width="50%" alt="User Karen"/>
 </p>
-<p>
-Description
+<p align="center"> Log into the osTicket as jane_admin. In the Admin Panel, select Users and Add New User (Karen Hart; karen@clueless.com) 
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/lujmJO3.png" height="50%" width="50%" alt="Register"/>
+</p>
+<p> While in the newly created user for Karen Hart, select Register. Select the option to add a password. 
 </p>
 <br />
 
